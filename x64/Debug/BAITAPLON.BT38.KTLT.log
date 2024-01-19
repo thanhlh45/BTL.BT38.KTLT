@@ -1,19 +1,15 @@
-﻿  console.cpp
-D:\01 THANH IT\BÀI TẬP LỚN.BT38.KTLT\BAITAPLON.BT38.KTLT\BAITAPLON.BT38.KTLT\console.cpp(106,42): warning C4244: 'argument': conversion from 'DWORD' to 'WORD', possible loss of data
-  function.cpp
+﻿  function.cpp
 D:\01 THANH IT\BÀI TẬP LỚN.BT38.KTLT\BAITAPLON.BT38.KTLT\BAITAPLON.BT38.KTLT\function.cpp(150,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-D:\01 THANH IT\BÀI TẬP LỚN.BT38.KTLT\BAITAPLON.BT38.KTLT\BAITAPLON.BT38.KTLT\function.cpp(589,39): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
-D:\01 THANH IT\BÀI TẬP LỚN.BT38.KTLT\BAITAPLON.BT38.KTLT\BAITAPLON.BT38.KTLT\function.cpp(594,39): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
-D:\01 THANH IT\BÀI TẬP LỚN.BT38.KTLT\BAITAPLON.BT38.KTLT\BAITAPLON.BT38.KTLT\function.cpp(599,64): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
-D:\01 THANH IT\BÀI TẬP LỚN.BT38.KTLT\BAITAPLON.BT38.KTLT\BAITAPLON.BT38.KTLT\function.cpp(604,39): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
-D:\01 THANH IT\BÀI TẬP LỚN.BT38.KTLT\BAITAPLON.BT38.KTLT\BAITAPLON.BT38.KTLT\function.cpp(622,62): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
-D:\01 THANH IT\BÀI TẬP LỚN.BT38.KTLT\BAITAPLON.BT38.KTLT\BAITAPLON.BT38.KTLT\function.cpp(624,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
-D:\01 THANH IT\BÀI TẬP LỚN.BT38.KTLT\BAITAPLON.BT38.KTLT\BAITAPLON.BT38.KTLT\function.cpp(626,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+D:\01 THANH IT\BÀI TẬP LỚN.BT38.KTLT\BAITAPLON.BT38.KTLT\BAITAPLON.BT38.KTLT\function.cpp(581,39): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+D:\01 THANH IT\BÀI TẬP LỚN.BT38.KTLT\BAITAPLON.BT38.KTLT\BAITAPLON.BT38.KTLT\function.cpp(586,39): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+D:\01 THANH IT\BÀI TẬP LỚN.BT38.KTLT\BAITAPLON.BT38.KTLT\BAITAPLON.BT38.KTLT\function.cpp(591,64): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+D:\01 THANH IT\BÀI TẬP LỚN.BT38.KTLT\BAITAPLON.BT38.KTLT\BAITAPLON.BT38.KTLT\function.cpp(596,39): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+D:\01 THANH IT\BÀI TẬP LỚN.BT38.KTLT\BAITAPLON.BT38.KTLT\BAITAPLON.BT38.KTLT\function.cpp(614,62): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+D:\01 THANH IT\BÀI TẬP LỚN.BT38.KTLT\BAITAPLON.BT38.KTLT\BAITAPLON.BT38.KTLT\function.cpp(616,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+D:\01 THANH IT\BÀI TẬP LỚN.BT38.KTLT\BAITAPLON.BT38.KTLT\BAITAPLON.BT38.KTLT\function.cpp(618,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+D:\01 THANH IT\BÀI TẬP LỚN.BT38.KTLT\BAITAPLON.BT38.KTLT\BAITAPLON.BT38.KTLT\function.cpp(620,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
 D:\01 THANH IT\BÀI TẬP LỚN.BT38.KTLT\BAITAPLON.BT38.KTLT\BAITAPLON.BT38.KTLT\function.cpp(628,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
-D:\01 THANH IT\BÀI TẬP LỚN.BT38.KTLT\BAITAPLON.BT38.KTLT\BAITAPLON.BT38.KTLT\function.cpp(636,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
-D:\01 THANH IT\BÀI TẬP LỚN.BT38.KTLT\BAITAPLON.BT38.KTLT\BAITAPLON.BT38.KTLT\function.cpp(638,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
-D:\01 THANH IT\BÀI TẬP LỚN.BT38.KTLT\BAITAPLON.BT38.KTLT\BAITAPLON.BT38.KTLT\function.cpp(640,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
-D:\01 THANH IT\BÀI TẬP LỚN.BT38.KTLT\BAITAPLON.BT38.KTLT\BAITAPLON.BT38.KTLT\function.cpp(642,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
-  main.cpp
-  Generating Code...
+D:\01 THANH IT\BÀI TẬP LỚN.BT38.KTLT\BAITAPLON.BT38.KTLT\BAITAPLON.BT38.KTLT\function.cpp(630,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+D:\01 THANH IT\BÀI TẬP LỚN.BT38.KTLT\BAITAPLON.BT38.KTLT\BAITAPLON.BT38.KTLT\function.cpp(632,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
+D:\01 THANH IT\BÀI TẬP LỚN.BT38.KTLT\BAITAPLON.BT38.KTLT\BAITAPLON.BT38.KTLT\function.cpp(634,38): warning C4267: 'argument': conversion from 'size_t' to 'SHORT', possible loss of data
   BAITAPLON.BT38.KTLT.vcxproj -> D:\01 THANH IT\BÀI TẬP LỚN.BT38.KTLT\BAITAPLON.BT38.KTLT\x64\Debug\BAITAPLON.BT38.KTLT.exe

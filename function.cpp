@@ -548,14 +548,6 @@ void vetieudegame()
 	{
 		printf("%c", 61);
 	}
-	gotoXY(3, 16);
-	printf("CAC THANH VIEN.");
-	gotoXY(3, 17);
-	printf("Le Hoang Thanh");
-	gotoXY(3, 18);
-	printf("Nguyen Gia Han");
-	gotoXY(3, 19);
-	printf("Vo Nguyen Truong Giang");
 	
 	//in hai hang doc
 	for (int i = 0; i < ConsoleHeight; ++i)
